@@ -105,7 +105,7 @@ stress-controlled specimen histories for fitting. The comparison programs
 calculate the article's displacement, stress, viscous-state and observation
 metrics; they do not generate figures.
 
-See `DATA_SOURCES.md` for the provenance, units and uses of the digitized
+See `DATA_SOURCES.md` for the provenance, units and uses of the
 measurements. The laboratory and field materials are distinct. The calibrated
 field model uses the 10.82 m high, 9.519 m wide design horseshoe and a relaxing
 directional branch based on individual carbonaceous-slate specimens. Its pressure input
