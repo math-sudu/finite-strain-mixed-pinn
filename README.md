@@ -1,7 +1,7 @@
-# Finite-strain tunnel creep: code and data
+# Finite-strain creep: code and data
 
 Code and data for **A condensed physics informed neural network coupling implicit
-constitutive evolution with weak equilibrium for finite strain tunnel creep**.
+constitutive evolution with weak equilibrium for finite strain creep**.
 The package covers the noncircular PINN comparison, its material inputs and the
 field application in the article.
 
